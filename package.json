@@ -1,0 +1,19 @@
+{
+  "name": "gastronomic-guide",
+  "version": "1.0.0",
+  "description": "Node.js project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EylenS/Gastronomic-guide.git"
+  },
+  "author": "Eylen Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EylenS/Gastronomic-guide/issues"
+  },
+  "homepage": "https://github.com/EylenS/Gastronomic-guide#readme"
+}
