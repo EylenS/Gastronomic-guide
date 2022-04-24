@@ -22,9 +22,13 @@ After that, the package.json file is modified adding "devDependencies", and down
 ### To set up the Bootstrap
 
 <p>To install bootstrap: Use `npm install bootstrap --save`</p>
-<p>Use `npm install jquery --save`</p>
-<p>Use `npm install @popperjs/core --save`</p>
-fsevents
+<p>
+    <ul>
+        <li>Use `npm install jquery --save`</li>
+        <li>Use `npm install @popperjs/core --save`</li>
+    </ul>
+</p>
+
 
 ### To set up index.html
 
