@@ -3,8 +3,19 @@
     color: black;
 }
 
-.footer {
+footer {
     padding: 10px 10px 10 px;
-    background-color: yellow;
+    background-color: bisque;
     margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.card-gastronomic {
+    flex: 1 150px;
+    padding: 2px 5px 2px 5px;
+    margin-top: 10px;
+}
+
+.btn-menu {
+    width: 100%;
 }
